@@ -16,4 +16,4 @@ After downloading use the command `py ./run.py` to run the App. the App should b
 
 The App is built with:
 
--   A Flast wrapper and sqlite3 for the DB
+-   A Flask wrapper and sqlite3 for the DB
